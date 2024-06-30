@@ -12,3 +12,4 @@
 
 <h4>A ilustração mostra a responsividade do projeto, ou seja, como o mesmo se adapta ao desktop ou mobile.</h4>
 <br>
+<img src="Design sem nome - 2024-06-30T045121.052.png" />
